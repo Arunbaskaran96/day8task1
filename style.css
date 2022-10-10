@@ -1,0 +1,43 @@
+.img1{
+    height: 200px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+.img-div{
+    display: flex;
+    justify-content: center;
+}
+.name{
+    background-color: brown;
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.name-div{
+    display: flex;
+    justify-content: center;
+}
+.con-div{
+    display: flex;
+    justify-content: center;
+}
+.contact{
+    background-color: brown;
+    margin-top:0;
+    font-size: 20px;
+}
+.heading{
+    text-align: center;
+}
+/* .content{
+    text-align: center;
+} */
+body{
+    background-color: brown;
+}
+ /* .container{
+    border: 1px black solid;
+} */
+.cln{
+    border-right: 1px black solid;
+}
